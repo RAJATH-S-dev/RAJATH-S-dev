@@ -52,8 +52,8 @@ DevOps       →  Docker  Railway  GitHub Actions
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJATH-S-dev&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJATH-S-dev&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ DevOps       →  Docker  Railway  GitHub Actions
 
 - **Technical Lead** — Hackfinity hackathon, 200+ participants
 - **Innovata** — Graphic design lead for inter-college project expo
-- CGPA: **8.65** — Maharaja Institute of Technology, Mysore
+- **CGPA:** - 8.77 — Maharaja Institute of Technology, Mysore
 
 ---
 
@@ -70,4 +70,4 @@ DevOps       →  Docker  Railway  GitHub Actions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajath-s-96a394355/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajaths543@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RAJATH-S-dev)
