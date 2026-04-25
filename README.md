@@ -9,28 +9,28 @@ I build things that actually work — from autonomous robots navigating warehous
 
 ## Featured Projects
 
-### [Automated Guided Vehicle](https://github.com/YOUR-USERNAME/automated-guided-vehicle)
+### [Automated Guided Vehicle](https://github.com/RAJATH-S-dev/automated-guided-vehicle)
 > IoT • ESP32 • Machine Learning • Real-time Systems
 
 Contributed to an autonomous AGV capable of carrying 15 kg payloads. Implemented a Dijkstra-based routing algorithm with encoder feedback achieving **95% pathing accuracy**, and worked on ESP-NOW peer-to-peer mesh communication for decentralised multi-AGV coordination.
 
 ---
 
-### [Timetable Generator](https://timetable-gen-production.up.railway.app)
+### [Timetable Generator]([https://timetable-gen-production.up.railway.app](https://timetable-gen-na5b.onrender.com/))
 > Next.js • Supabase • Google OR-Tools • Docker • Railway
 
 Full-stack automated timetable system with a custom C++ constraint solver satisfying **9+ hard constraints** with 100% accuracy. Features real-time slot editing, faculty workflows, and one-click PDF export — cutting manual scheduling effort by 90%+.
 
 ---
 
-### [Infosphere Club Hub](https://github.com/YOUR-USERNAME/infosphere-club-hub)
+### [Infosphere Club Hub](https://github.com/RAJATH-S-dev/infosphere-club-hub)
 > React • Tailwind CSS • Google Sheets • Serverless
 
 Dynamic single-page app for the Infosphere club. Built a zero-backend CMS by parsing live CSV data from Google Sheets to render events and team profiles in real time.
 
 ---
 
-### [YouTube Playlist Link Extractor](https://github.com/YOUR-USERNAME/youtube-playlist-extractor)
+### [YouTube Playlist Link Extractor](https://github.com/RAJATH-S-dev/youtube-playlist-extractor)
 > Chrome Extension • JavaScript • Manifest V3
 
 Chrome extension that auto-scrolls a YouTube playlist, extracts all video links in order, and copies them to clipboard — built for feeding entire course playlists into tools like Google NotebookLM.
