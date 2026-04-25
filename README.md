@@ -16,10 +16,12 @@ Contributed to an autonomous AGV capable of carrying 15 kg payloads. Implemented
 
 ---
 
-### [Timetable Generator](https://timetable-gen-production.up.railway.app)
+### [Timetable Generator <- Click here to visit the web application](https://timetable-gen-na5b.onrender.com)
 > Next.js • Supabase • Google OR-Tools • Docker • Railway
 
 Full-stack automated timetable system with a custom C++ constraint solver satisfying **9+ hard constraints** with 100% accuracy. Features real-time slot editing, faculty workflows, and one-click PDF export — cutting manual scheduling effort by 90%+.
+
+Hosted On onrender
 
 ---
 
