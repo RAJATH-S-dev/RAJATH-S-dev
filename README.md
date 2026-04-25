@@ -1,4 +1,4 @@
-# Hey, I'm Rajath 
+# Hey, I'm Rajath S
 
 **Full-Stack Developer • AI/ML • 2026 Graduate**  
 Mysore, India
