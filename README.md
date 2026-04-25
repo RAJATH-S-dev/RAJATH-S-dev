@@ -9,7 +9,7 @@ I build things that actually work — from autonomous robots navigating warehous
 
 ## 🚀 Featured Projects
 
-### [Automated Guided Vehicle](https://github.com/YOUR-USERNAME/automated-guided-vehicle)
+### [Automated Guided Vehicle](https://github.com/RAJATH-S-dev/Industrial_Automated_Line_Follower)
 > IoT • ESP32 • Machine Learning • Real-time Systems
 
 Contributed to an autonomous AGV capable of carrying 15 kg payloads. Implemented a Dijkstra-based routing algorithm with encoder feedback achieving **95% pathing accuracy**, and worked on ESP-NOW peer-to-peer mesh communication for decentralised multi-AGV coordination.
