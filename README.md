@@ -91,7 +91,7 @@ Chrome extension that auto-scrolls a YouTube playlist, extracts all video links 
 
 - 🎯 **Technical Lead** — Hackfinity hackathon, 200+ participants
 - 🎨 **Innovata** — Graphic design lead for inter-college project expo
-- 📚 CGPA: **8.65** — Maharaja Institute of Technology, Mysore
+- 📚 CGPA: **8.9** — Maharaja Institute of Technology, Mysore
 
 ---
 
